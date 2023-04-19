@@ -1,4 +1,4 @@
-# Desafio DIO , primeiro repositório
+# Desafio DIO, primeiro repositório
 Primeiro contato com a plataforma, explorando com este arquivo!
 
 ## Links relevantes: 
